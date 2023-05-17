@@ -1,0 +1,1 @@
+W tym folderze powinien być plik csv o nazwie ML_EdgeIIoT_dataset.csv
